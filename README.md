@@ -8,6 +8,7 @@ A collection of useful Python scripts. Each script solves a specific problem or 
 |---|--------|-------------|------------|
 | 001 | [File Organizer](./001-file-organizer/) | Automatically organize files by type into categorized folders | 2026-01-01 |
 | 002 | [Duplicate File Finder](./002_duplicate_file_finder/) | Find and manage duplicate files based on content hash | 2026-01-02|
+| 003 | [Password Generator](./003_password_generator/) | Generate secure passwords and passphrases with strength assessment | 2026-01-03|
 
 ## Project Goals
 
@@ -108,11 +109,12 @@ Feel free to reach out if you have questions or suggestions!
 
 - **Day 1 (2026-01-01)**: File Organizer - Sorts files by type into organized folders
 - **Day 2 (2026-01-02)**: Duplicate File Finder - Finds and manages duplicate files using content hash
+- **Day 3 (2026-01-03)**: Password Generator - Generate secure passwords and passphrases with strength assessment
 
 ## Upcoming Ideas
 
 - [X] Duplicate File Finder
-- [ ] Password Generator
+- [X] Password Generator
 - [ ] Weather CLI Tool
 - [ ] CSV to JSON converter
 - [ ] System Monitor CLI
@@ -120,4 +122,4 @@ Feel free to reach out if you have questions or suggestions!
 
 ---
 
-*Last updated: 2026-01-02*
+*Last updated: 2026-01-03*
